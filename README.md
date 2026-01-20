@@ -44,3 +44,5 @@ This repository contains hands-on cybersecurity case studies focused on real-wor
 ## 📫 Contact
 - **GitHub:** https://github.com/Amin-M-Fathallah
 - **Email:** amin.mohammed.fathallah@gmail.com
+- - LinkedIn: [linkedin.com/in/amin-mohammed-7a2021293](https://linkedin.com/in/amin-mohammed-7a2021293)
+
