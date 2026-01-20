@@ -45,6 +45,14 @@ The objective of this investigation was to analyze abnormal high-volume network 
 
 ---
 
+
+📸 **Dashboards
+![Power BI Dashboard](images/dashboard_overview.png)
+
+
+
+----
+
 ## 🚨 Key Findings
 - **Peak Traffic:** ~28 million packets
 - **Attack Type:** Volumetric DDoS (Botnet-driven)
